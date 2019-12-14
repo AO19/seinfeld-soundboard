@@ -13,7 +13,7 @@ export default class Footer extends Component {
           >
             AO19
           </a>{" "}
-          with a bunch of 🍪
+          with a few 🍪
         </h4>
       </div>
     );
