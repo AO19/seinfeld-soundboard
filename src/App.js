@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./App.css";
 import Jerry from "./components/Jerry";
 import George from "./components/George";
 import Elaine from "./components/Elaine";
